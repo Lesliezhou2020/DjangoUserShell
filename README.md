@@ -1,0 +1,2 @@
+# DjangoUserShell
+database shell
