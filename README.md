@@ -1,2 +1,1 @@
-# DjangoUserShell
-database shell
+# Users with Templates
